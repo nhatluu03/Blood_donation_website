@@ -24,16 +24,6 @@
 - Launching donation campaigns: 
 - Shipping route: In the delivery officer's workspace, a shipping route to the destination will be rendered if that staff is assigned for the delivery tasks.  
 
-
-### D. Non-technical Outcomes:
-
-
-E.
 ### F. Limitations:
 - The free trial GGAPI KEY may not work and the application may exceed the limit daily quotes. This will negatively affect donation scheduling and shipping route features.
 - The shipping route may not work in cases the distance betweeen the source and the destination is two large.
-- 
-
-G. Installation:
-Step 01: Download the code posted on this GitHub repository
-Step 02: 
